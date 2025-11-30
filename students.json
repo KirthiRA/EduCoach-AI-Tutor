@@ -1,0 +1,12 @@
+[
+  {
+    "id": "demo_student_1",
+    "grade": 6,
+    "tone": "friendly"
+  },
+  {
+    "id": "demo_student_2",
+    "grade": 7,
+    "tone": "formal"
+  }
+]
